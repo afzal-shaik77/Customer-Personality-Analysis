@@ -20,7 +20,7 @@ The "Customer Personality Analysis" initiative aims to help businesses personali
    git clone https://github.com/afzal-shaik77/customer-personality-analysis.git
 ## Usage:
 1. Run the customer segmentation script to categorize your customer base.
-   'python segmentation_script.py'
+   `python segmentation_script.py`
 2. Analyze the generated segments to understand unique customer characteristics.
 3. Utilize the insights to modify products and tailor marketing strategies.
 
