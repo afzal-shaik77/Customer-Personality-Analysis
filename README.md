@@ -1,5 +1,3 @@
-# Customer-Personality-Analysis
-
 # Customer Personality Analysis 
 
 ![Customer Personality Analysis Cover ](https://wperp-com.s3.amazonaws.com/uploads/2020/07/customer-behavior-analysis-A-guide-for-entrepreneurs-customer-behavior-analysis-%E2%80%93-1-1024x410.png)
