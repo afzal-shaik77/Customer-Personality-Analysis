@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 #load the model
-classifier = pickle.load(open('/content/classifier.pkl','rb'))
+classifier = pickle.load(open('classifier.pkl','rb'))
 
 
 #page configuration
